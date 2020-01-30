@@ -1,4 +1,4 @@
 # snake-on-pygame
 Snake game on pygame.
 
-![Image description](snake screengrab.JPG)
+![Screenshot](https://github.com/kurinurm/snake-on-pygame/blob/master/snake%20screengrab.JPG)
